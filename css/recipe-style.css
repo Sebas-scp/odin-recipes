@@ -1,0 +1,25 @@
+body{
+    background-color: white;
+}
+
+.all{
+    margin:0px auto;
+    padding:10px;
+    background-color: rgb(114, 189, 207);
+    display: block;
+    width:400px;
+}
+
+.insides{
+    margin: 5px;
+    padding: 5px;
+}
+
+li{
+    text-align: justify;
+}
+
+img{
+    width:50%;
+    text-align: center;
+}
